@@ -1,13 +1,15 @@
 site_name: Suu's Website
+repo_name: 'Suufiane3/SuuOff'
+repo_url: 'https://github.com/Suufiane3/SuuOff'
 copyright: |
     Copyleft ©️ 2022 <a>Suu sdi</a>
 
 site_description: La programmation
-docs_dir: docs
+docs_dir: docs/
 
 nav:
   - "Les langages de programmation": index.md
-  - "langages les plus utilisés" : most used langage.md
+  - "langages les plus utilisés": most used langage.md
   - "Apprendre à coder": learn to code.md
   - "Conclusion": conclusion.md
 
