@@ -302,7 +302,7 @@
     === "résultat"
 
         <figure markdown>
-            ![gif d'un donut qui tourne](images/donnut_spin.mp4){ width="300" }
+            ![gif d'un donut qui tourne](images/donnut_spin.gif){ width="300" }
             <figcaption>ça sert à rien mais c'est fun ! :octicons-heart-fill-24:{ .heart } </figcaption>
         </figure>
 
