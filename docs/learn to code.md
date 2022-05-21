@@ -159,7 +159,7 @@
             name_in_num(names[x])
             love_indice()
             
-        Console.WriteLine(tot_names[0], tot_names
+        Console.WriteLine(tot_names[0], tot_names)
         ```
 
 ??? tip "Petite démonstration...🤓"
@@ -302,7 +302,7 @@
     === "résultat"
 
         <figure markdown>
-            ![gif d'un donut qui tourne](images/donnut_spin_Trim_AdobeCreativeCloudExpress.gif){ width="300" }
+            ![gif d'un donut qui tourne](images/donnut_spin.mp4){ width="300" }
             <figcaption>ça sert à rien mais c'est fun ! :octicons-heart-fill-24:{ .heart } </figcaption>
         </figure>
 
