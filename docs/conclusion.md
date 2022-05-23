@@ -15,4 +15,3 @@
     3. [Apprendre à coder ⬅️](learn to code.md)
 
 ---
-> **_NOTE:_** Travail à faire pour le mardi 17 mai
